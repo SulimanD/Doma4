@@ -1,0 +1,15 @@
+C:\Users\su\Desktop\dom4\bin\Debug\net6.0\dom4.exe
+C:\Users\su\Desktop\dom4\bin\Debug\net6.0\dom4.deps.json
+C:\Users\su\Desktop\dom4\bin\Debug\net6.0\dom4.runtimeconfig.json
+C:\Users\su\Desktop\dom4\bin\Debug\net6.0\dom4.dll
+C:\Users\su\Desktop\dom4\bin\Debug\net6.0\dom4.pdb
+C:\Users\su\Desktop\dom4\obj\Debug\net6.0\dom4.csproj.AssemblyReference.cache
+C:\Users\su\Desktop\dom4\obj\Debug\net6.0\dom4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\su\Desktop\dom4\obj\Debug\net6.0\dom4.AssemblyInfoInputs.cache
+C:\Users\su\Desktop\dom4\obj\Debug\net6.0\dom4.AssemblyInfo.cs
+C:\Users\su\Desktop\dom4\obj\Debug\net6.0\dom4.csproj.CoreCompileInputs.cache
+C:\Users\su\Desktop\dom4\obj\Debug\net6.0\dom4.dll
+C:\Users\su\Desktop\dom4\obj\Debug\net6.0\refint\dom4.dll
+C:\Users\su\Desktop\dom4\obj\Debug\net6.0\dom4.pdb
+C:\Users\su\Desktop\dom4\obj\Debug\net6.0\dom4.genruntimeconfig.cache
+C:\Users\su\Desktop\dom4\obj\Debug\net6.0\ref\dom4.dll
